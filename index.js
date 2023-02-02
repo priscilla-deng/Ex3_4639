@@ -4,6 +4,6 @@ const quote3 = "'I have buried myself in every place I have ever been.'"
 
 const quoteList = [quote1, quote2, quote3];
 
-let num = Math.floor(Math.random() * 3) + 1;
+let num = Math.floor(Math.random() * 3);
 
 console.log(num);

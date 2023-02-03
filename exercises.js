@@ -8,3 +8,5 @@ function joinArrays () {
 }
 
 joinArrays(arrays);
+
+export default joinArrays;

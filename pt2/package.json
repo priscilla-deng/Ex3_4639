@@ -1,0 +1,20 @@
+{
+  "name": "ex3_4639",
+  "version": "1.0.0",
+  "description": "Ex 3 for Mobile Development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/priscilla-deng/Ex3_4639.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/priscilla-deng/Ex3_4639/issues"
+  },
+  "homepage": "https://github.com/priscilla-deng/Ex3_4639#readme"
+}
